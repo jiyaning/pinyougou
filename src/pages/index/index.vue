@@ -11,7 +11,7 @@
 	export default {
 		data() {
 			return {
-				title: 'Hello'
+				title: '品优购首页'
 			}
 		},
 		onLoad() {
